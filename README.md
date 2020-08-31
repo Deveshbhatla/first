@@ -1,2 +1,2 @@
 # first
-My first repository.
+My first repository in HTML.
